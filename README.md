@@ -6,11 +6,11 @@ On examining the different graphs through the above analysis we get the followin
 2>> GRAPH 2 : It has been seen that the "Consumer" segment comprises the maximum number of customers purchasing the products.<br>
 3>> GRAPH 3 : It's found that the most preffered ship mode of the customers is "Standard Class" Ship Mode.<br>
 4>> GRAPH 4 : The maximum customer base is located in the West region, followed by the East, Central, and South regions.<br>
-5>> GRAPH 5 : It Tells us the count of products shipped of each product category through different shipping Modes. which are as follows:<br>
+5>> GRAPH 5 : It Tells us the count of products shipped of each product category through different shipping Modes. which are as follows:<br><br>
                 Standard Ship Mode: Office Supplies > Furniture > Technology<br>
                 Second Class Ship Mode: Office Supplies > Furniture > Technology<br>
                 First Class Ship Mode: Office Supplies > Furniture > Technology<br>
-                Same Day Ship Mode: Office Supplies > Furniture > Technology<br>
+                Same Day Ship Mode: Office Supplies > Furniture > Technology<br><br>
 6>> GRAPH 6 : Within the "Technology" category, the highest sales is achieved in the "Phones" sub-category.<br>
 7>> GRAPH 7 : Within the "Furniture" category, the highest sales are attributed to the "Furnishing" sub-category.<br>
 8>> GRAPH 8 : Within the "Office Supplies" category, the company has achieved the highest sales in the "Binders" sub-category.<br>
