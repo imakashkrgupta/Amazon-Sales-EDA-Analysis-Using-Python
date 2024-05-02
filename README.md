@@ -1,7 +1,7 @@
 # Amazon-Sales-EDA-Analysis-Using-Python
 
-ANALYSIS OUTCOME
-On examining the different graphs through the above analysis we get the following outcomes:
+ANALYSIS OUTCOME<br>
+On examining the different graphs through the above analysis we get the following outcomes:<br>
 1>> GRAPH 1 : It's been revealed that the "Office Supplies" category is experiencing exceptionally high demand and has achieved the highest sales figures.
 2>> GRAPH 2 : It has been seen that the "Consumer" segment comprises the maximum number of customers purchasing the products.
 3>> GRAPH 3 : It's found that the most preffered ship mode of the customers is "Standard Class" Ship Mode.
